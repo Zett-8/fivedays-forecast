@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+select{
+    width: 30%;
+}
+
+.input-group row{
+    margin-left: 0;
+}
+
+th, td{
+    text-align: center !important;
+    vertical-align: bottom !important;
+}
+
+#cityName{
+    vertical-align: middle !important;
+}
+
+svg{
+    width: 310px;
+    height: 100px;
+}
